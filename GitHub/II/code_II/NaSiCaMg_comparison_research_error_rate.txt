@@ -1,0 +1,5 @@
+NaSiCaMg
+fp_Nor	13.6
+fp_KDE	13.5
+fn_Nor	6
+fn_KDE	6
